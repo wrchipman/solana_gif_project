@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import twitterLogo from './assets/twitter-logo.svg';
 import './App.css';
 
-// Constants
+// Constants Here
 const TWITTER_HANDLE = 'Professor_dread';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const TEST_GIFS = [
